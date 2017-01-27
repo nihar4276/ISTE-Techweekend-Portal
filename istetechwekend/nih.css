@@ -1,0 +1,41 @@
+body, html{
+
+	background-color: black;
+	color: #f1f1f1;
+}
+.header{
+
+background-color:#ffff66;
+color: #66ccff;
+height: 300px;
+
+}
+input{
+
+	width: 250px;
+	height: 30px;
+	border-radius: 10px;
+}
+
+#nihbutton{
+	background-color: #34495E;
+	width: 100px;
+	height: 40px;
+
+
+
+}
+#select{
+
+	width:400px;
+
+
+
+}
+#nihartable{
+	width: 400px;
+	height: 250px;
+
+
+
+}
